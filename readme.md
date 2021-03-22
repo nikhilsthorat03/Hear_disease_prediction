@@ -2,14 +2,13 @@
  
  	 
   
-1.	PROJECT DESCRIPTION
-The dataset “Heart Disease” has been taken from Kaggle. The origin source of the data is the UCI machine learning repository containing the results of 303 patients on tests such as blood pressure, cholesterol levels, heart rate resulting in patients being classified based on a positive or negative heart condition. The main idea behind choosing this dataset is to predict the chances of the patients getting heart diseases using various machine learning and deep learning models. The number of cases for heart disease is increasing day by day due to the modern lifestyle and food habits. The diagnosis of heart disease was a challenging task and the classification models will predict whether the patient has heart disease or not based on various conditions/symptoms of their body.
 
-2.	DATASET - INDEPENDENT AND DEPENDENT VARIABLES 
+
+1.	DATASET - INDEPENDENT AND DEPENDENT VARIABLES 
 The dataset has multiple variables which are classified as independent variables and a dependent / target variable and all these variables are used during predictions in each model. The dataset contains303 samples with 13 independent feature variables which are - Age, Sex, Chest Pain type, Blood pressure, Cholesterol, Fasting Blood sugar level, resting electrocardiographic results, Depression induced by exercise, angina, max heart rate achieved, slope, major vessels and blood disorder called thalassemia. The target contains one variable - “target” which is a categorical data showing 0 for negative on heart condition and 1 for positive. There is no missing values in these feature variables.
 
 
-3.	DATA ANALYSIS 
+2.	DATA ANALYSIS 
 The analysis part of the heart disease dataset has been carried out in Python by initially installing all the necessary libraries that are required to create the ML models and further investigation of the data has been made with making visualizations that highlights the importance of the feature variables. Below are the steps involved in working with the data:
 •	Data Exploration 
 •	Feature Engineering
